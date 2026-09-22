@@ -10,7 +10,7 @@ Geospatial data engineering and scientific software development, with a focus on
 
 |                                                                    |                      |
 |--------------------------------------------------------------------|----------------------|
-| **Principal Data Systems Developer** · VRIFY                       | Remote · 2026 –      |
+| **Principal Research Engineer** · VRIFY                            | Remote · 2026 –      |
 | **Head of Data Engineering** · Earth Finance                       | Remote · 2025        |
 | **VP / Director / Engineer** · Climate Engine                      | Remote · 2021 – 2025 |
 | **Applied Research Geophysicist / Systems Engineer** · Nanometrics | Ottawa · 2017 – 2021 |
