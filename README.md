@@ -1,6 +1,6 @@
 # Ian Pritchard
 
-**Principal Data Systems Developer** · Ottawa, ON
+**Geospatial Scientist and Engineer** · Ottawa, ON
 
 Geospatial data engineering and scientific software development, with a focus on cloud-native infrastructure, environmental data systems, and analytical pipelines at scale. Background spans planetary science, applied geophysics, and production-grade data platform engineering.
 
